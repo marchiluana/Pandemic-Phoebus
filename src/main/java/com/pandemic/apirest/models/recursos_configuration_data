@@ -1,0 +1,8 @@
+INSERT INTO public.tb_recursos_configuracao(
+	nome, id, pontos)
+	VALUES ('medico', 1, 3),
+	('enfermeiro', 2, 3),
+	('respirador', 3, 5),
+	('tomografo', 4, 12),
+	('ambulancia', 5, 10);
+	
